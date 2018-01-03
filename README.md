@@ -11,4 +11,4 @@ https://marketplace.visualstudio.com/items?itemName=JimBobBennett.MvvmCrossforVi
 
 # Note
 This does not contain the backend API.
-This has only been implemented for the iOS UI but the code is in the core/common/shared portion.
+This has only been implemented for the iOS UI/Windows Universal(UWP) but the code is in the core/common/shared portion.
